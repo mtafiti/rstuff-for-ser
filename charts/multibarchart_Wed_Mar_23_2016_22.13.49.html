@@ -1,0 +1,109 @@
+<!doctype HTML>
+<meta charset = 'utf-8'>
+<html>
+  <head>
+    
+    <script src='//code.jquery.com/jquery-1.9.1.min.js' type='text/javascript'></script>
+    <script src='//code.highcharts.com/highcharts.js' type='text/javascript'></script>
+    <script src='//code.highcharts.com/highcharts-more.js' type='text/javascript'></script>
+    <script src='//code.highcharts.com/modules/exporting.js' type='text/javascript'></script>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/highcharts/4.2.3/themes/grid-light.js' type='text/javascript'></script>
+    
+    <style>
+    .rChart {
+      display: inline-block;
+      margin-left: auto; 
+      margin-right: auto;
+      width: 800px;
+      height: 400px;
+    }  
+    </style>
+    
+  </head>
+  <body >
+    
+    <div id = 'chart5ba19dc410d' class = 'rChart highcharts'></div>    
+    <script type='text/javascript'>
+    (function($){
+        $(function () {
+            var chart = new Highcharts.Chart({
+ "dom": "chart5ba19dc410d",
+"width":            800,
+"height":            400,
+"credits": {
+ "href": null,
+"text": null 
+},
+"exporting": {
+ "enabled": true,
+"buttons": {
+ "contextButton": {
+ "align": "right",
+"verticalAlign": "top" 
+} 
+} 
+},
+"title": {
+ "text": "Clients" 
+},
+"yAxis": [
+ {
+ "type": "logarithmic",
+"title": {
+ "text": "TOTAL TIME (S)" 
+} 
+} 
+],
+"chart": {
+ "zoomType": "x",
+"type": "column",
+"spacingTop":             20,
+"spacingBottom":             20,
+"renderTo": "chart5ba19dc410d" 
+},
+"legend": {
+ "enabled": true 
+},
+"xAxis": [
+ {
+ "crosshair": true,
+"categories": [],
+"title": {
+ "text": "NO. OF NOTIFICATIONS" 
+},
+"showLastLabel": true 
+} 
+],
+"plotOptions": {
+ "column": {
+ "pointPadding":            0.2,
+"dataLabels": {
+ "enabled": false 
+} 
+} 
+},
+"series": [
+ {
+ "name": "Unscoped rete",
+"data": [
+         22.194 
+],
+"color": "rgba( 238, 46,  47,  0.9 )" 
+},
+{
+ "name": "Serena rete",
+"data": [
+         91.917 
+],
+"color": "rgba( 44,  145, 51,  0.9 )" 
+} 
+],
+"id": "chart5ba19dc410d" 
+});
+        });
+    })(jQuery);
+</script>
+    
+    <script></script>    
+  </body>
+</html>

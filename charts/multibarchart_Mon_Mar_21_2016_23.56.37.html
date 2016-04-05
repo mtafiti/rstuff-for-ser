@@ -1,0 +1,137 @@
+<!doctype HTML>
+<meta charset = 'utf-8'>
+<html>
+  <head>
+    
+    <script src='//code.jquery.com/jquery-1.9.1.min.js' type='text/javascript'></script>
+    <script src='//code.highcharts.com/highcharts.js' type='text/javascript'></script>
+    <script src='//code.highcharts.com/highcharts-more.js' type='text/javascript'></script>
+    <script src='//code.highcharts.com/modules/exporting.js' type='text/javascript'></script>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/highcharts/4.2.3/themes/grid-light.js' type='text/javascript'></script>
+    
+    <style>
+    .rChart {
+      display: inline-block;
+      margin-left: auto; 
+      margin-right: auto;
+      width: 800px;
+      height: 400px;
+    }  
+    </style>
+    
+  </head>
+  <body >
+    
+    <div id = 'chart5ba55e47e36' class = 'rChart highcharts'></div>    
+    <script type='text/javascript'>
+    (function($){
+        $(function () {
+            var chart = new Highcharts.Chart({
+ "dom": "chart5ba55e47e36",
+"width":            800,
+"height":            400,
+"credits": {
+ "href": null,
+"text": null 
+},
+"exporting": {
+ "enabled": true,
+"buttons": {
+ "contextButton": {
+ "align": "right",
+"verticalAlign": "top" 
+} 
+} 
+},
+"title": {
+ "text": "Client Benchmark" 
+},
+"yAxis": [
+ {
+ "type": "logarithmic",
+"title": {
+ "text": "MEMORYHEAPUSED" 
+} 
+} 
+],
+"chart": {
+ "zoomType": "x",
+"type": "column",
+"spacingTop":             20,
+"spacingBottom":             20,
+"renderTo": "chart5ba55e47e36" 
+},
+"legend": {
+ "enabled": true 
+},
+"xAxis": [
+ {
+ "crosshair": true,
+"categories": [ 5, 50, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700 ],
+"title": {
+ "text": "NO. OF ACTIVATIONS" 
+},
+"showLastLabel": true 
+} 
+],
+"plotOptions": {
+ "column": {
+ "pointPadding":            0.2,
+"dataLabels": {
+ "enabled": false 
+} 
+} 
+},
+"series": [
+ {
+ "name": "Unscoped rete",
+"data": [
+  2.53556060791,
+-4.504119873047,
+-6.86190032959,
+-9.221122741699,
+-7.98412322998,
+-3.292579650879,
+-4.803443908691,
+-8.890174865723,
+-7.968231201172,
+-7.592750549316,
+-6.000694274902,
+-5.46947479248,
+-4.256492614746,
+-1.481101989746,
+-6.759216308594 
+],
+"color": "rgba( 238, 46,  47,  0.9 )" 
+},
+{
+ "name": "Serena rete",
+"data": [
+ -7.07975769043,
+-6.74210357666,
+-6.03800201416,
+-5.94750213623,
+-6.236717224121,
+-4.394226074219,
+-3.00284576416,
+-2.627807617188,
+-2.833915710449,
+-2.234336853027,
+-2.22876739502,
+-1.880043029785,
+    -8.1015625,
+-7.317184448242,
+-6.484367370605 
+],
+"color": "rgba( 44,  145, 51,  0.9 )" 
+} 
+],
+"id": "chart5ba55e47e36" 
+});
+        });
+    })(jQuery);
+</script>
+    
+    <script></script>    
+  </body>
+</html>

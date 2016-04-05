@@ -1,0 +1,315 @@
+<!doctype HTML>
+<meta charset = 'utf-8'>
+<html>
+  <head>
+    
+    <script src='//code.jquery.com/jquery-1.9.1.min.js' type='text/javascript'></script>
+    <script src='//code.highcharts.com/highcharts.js' type='text/javascript'></script>
+    <script src='//code.highcharts.com/highcharts-more.js' type='text/javascript'></script>
+    <script src='//code.highcharts.com/modules/exporting.js' type='text/javascript'></script>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/highcharts/4.2.3/themes/grid-light.js' type='text/javascript'></script>
+    
+    <style>
+    .rChart {
+      display: inline-block;
+      margin-left: auto; 
+      margin-right: auto;
+      width: 800px;
+      height: 400px;
+    }  
+    </style>
+    
+  </head>
+  <body >
+    
+    <div id = 'chart5ba99b85d' class = 'rChart highcharts'></div>    
+    <script type='text/javascript'>
+    (function($){
+        $(function () {
+            var chart = new Highcharts.Chart({
+ "dom": "chart5ba99b85d",
+"width":            800,
+"height":            400,
+"credits": {
+ "href": null,
+"text": null 
+},
+"exporting": {
+ "enabled": true,
+"buttons": {
+ "contextButton": {
+ "align": "right",
+"verticalAlign": "top" 
+} 
+} 
+},
+"title": {
+ "text": "Clients" 
+},
+"yAxis": [
+ {
+ "type": "logarithmic",
+"title": {
+ "text": "TOTAL TIME (S)" 
+} 
+} 
+],
+"chart": {
+ "zoomType": "x",
+"type": "column",
+"spacingTop":             20,
+"spacingBottom":             20,
+"renderTo": "chart5ba99b85d" 
+},
+"legend": {
+ "enabled": true 
+},
+"xAxis": [
+ {
+ "crosshair": true,
+"categories": [
+ 5,
+50,
+100,
+150,
+200,
+250,
+300,
+350,
+400,
+450,
+500,
+550,
+600,
+650,
+700,
+           750,
+           800,
+           850,
+           900,
+           950,
+          1000,
+          1050,
+          1100,
+          1150,
+          1200,
+          1250,
+          1300,
+          1350,
+          1400,
+          1450,
+          1500,
+          1550,
+          1600,
+          1650,
+          1700,
+          1750,
+          1800,
+          1850,
+          1900,
+          1950,
+          2000,
+          2050,
+          2100,
+          2150,
+          2200,
+          2250,
+          2300,
+          2350,
+          2400,
+          2450,
+          2500,
+          2550,
+          2600,
+          2650,
+          2700,
+          2750,
+          2800,
+          2850,
+          2900,
+          2950,
+          3000,
+          3050,
+          3100,
+          3150,
+          3200,
+          3250,
+          3300,
+          3350,
+          3400 
+],
+"title": {
+ "text": "NO. OF NOTIFICATIONS" 
+},
+"showLastLabel": true 
+} 
+],
+"plotOptions": {
+ "column": {
+ "pointPadding":            0.2,
+"dataLabels": {
+ "enabled": false 
+} 
+} 
+},
+"series": [
+ {
+ "name": "Unscoped rete",
+"data": [
+         22.194,
+      3397.838,
+      9329.769,
+       13267.2,
+     19874.744,
+     23379.718,
+     30402.173,
+     32419.453,
+     33726.275,
+     34964.806,
+     37350.846,
+     38010.641,
+     46241.844,
+     60899.073,
+     63369.586,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null 
+],
+"color": "rgba( 238, 46,  47,  0.9 )" 
+},
+{
+ "name": "Serena rete",
+"data": [
+         91.917,
+        244.96,
+       428.278,
+       605.239,
+       789.897,
+      2457.447,
+      3323.526,
+       3428.57,
+      3583.526,
+       3746.16,
+      3912.246,
+      4060.349,
+      5700.194,
+      6114.717,
+      6693.305,
+      6804.161,
+      6991.189,
+      7199.094,
+      7375.779,
+      8157.979,
+      9414.087,
+      9941.096,
+     10029.824,
+     10196.762,
+     10374.467,
+     10554.625,
+      10730.84,
+     12256.487,
+     13195.954,
+     13294.602,
+     13434.932,
+     13593.736,
+     13756.347,
+     13915.381,
+     14576.453,
+     15611.336,
+     16230.549,
+     16492.891,
+     16602.882,
+      16753.63,
+     16934.877,
+     17087.701,
+     17446.324,
+     18759.523,
+     19478.217,
+     19764.501,
+     19904.136,
+     19983.692,
+     20134.934,
+     20304.228,
+     20489.835,
+     22075.522,
+     22317.232,
+     23040.288,
+     23161.509,
+     23273.976,
+     23405.778,
+      23564.79,
+     23724.091,
+     24525.865,
+     25525.851,
+     25943.317,
+     26242.845,
+     26366.561,
+     26522.306,
+     26696.299,
+     26880.003,
+     27594.744,
+     28588.815 
+],
+"color": "rgba( 44,  145, 51,  0.9 )" 
+} 
+],
+"id": "chart5ba99b85d" 
+});
+        });
+    })(jQuery);
+</script>
+    
+    <script></script>    
+  </body>
+</html>

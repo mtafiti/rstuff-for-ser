@@ -1,0 +1,9 @@
+{"name":"Serena","level":30,"msg":"36 rules added.  No of clients: 66","time":"2016-03-16T00:37:41.353Z","v":0}
+{"name":"Serena","level":30,"clientprofile":{"activations":5,"factsadded":93,"memory":{"RSS":15679488,"HeapTotal":4127744,"HeapUsed":-7902808},"ttime":266477,"atime":42},"msg":"","time":"2016-03-16T00:42:07.803Z","v":0}
+{"name":"Serena","level":30,"clientprofile":{"activations":50,"factsadded":748,"memory":{"RSS":16695296,"HeapTotal":4127744,"HeapUsed":-1354424},"ttime":2355519,"atime":536},"msg":"","time":"2016-03-16T01:16:56.844Z","v":0}
+{"name":"Serena","level":30,"clientprofile":{"activations":100,"factsadded":1812,"memory":{"RSS":17575936,"HeapTotal":5159680,"HeapUsed":2157936},"ttime":5655381,"atime":246},"msg":"","time":"2016-03-16T02:11:56.706Z","v":0}
+{"name":"Serena","level":30,"clientprofile":{"activations":150,"factsadded":2580,"memory":{"RSS":-2785280,"HeapTotal":7211520,"HeapUsed":-8724608},"ttime":7992339,"atime":920},"msg":"","time":"2016-03-16T02:50:53.664Z","v":0}
+{"name":"Serena","level":30,"clientprofile":{"activations":200,"factsadded":3519,"memory":{"RSS":-15462400,"HeapTotal":8243456,"HeapUsed":-5317168},"ttime":10888627,"atime":36683},"msg":"","time":"2016-03-16T03:39:09.953Z","v":0}
+{"name":"Serena","level":30,"clientprofile":{"activations":250,"factsadded":4791,"memory":{"RSS":-16154624,"HeapTotal":9275392,"HeapUsed":-509160},"ttime":14908218,"atime":1508945},"msg":"","time":"2016-03-16T04:46:09.544Z","v":0}
+{"name":"Serena","level":30,"clientprofile":{"activations":300,"factsadded":6175,"memory":{"RSS":-16334848,"HeapTotal":11339264,"HeapUsed":7500264},"ttime":19235219,"atime":1938832},"msg":"","time":"2016-03-16T05:58:16.544Z","v":0}
+{"name":"Serena","level":30,"clientprofile":{"activations":350,"factsadded":6586,"memory":{"RSS":-13967360,"HeapTotal":11339264,"HeapUsed":3302880},"ttime":20463682,"atime":830786},"msg":"","time":"2016-03-16T06:18:45.007Z","v":0}

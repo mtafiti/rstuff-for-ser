@@ -1,0 +1,330 @@
+<!doctype HTML>
+<meta charset = 'utf-8'>
+<html>
+  <head>
+    
+    <script src='//code.jquery.com/jquery-1.9.1.min.js' type='text/javascript'></script>
+    <script src='//code.highcharts.com/highcharts.js' type='text/javascript'></script>
+    <script src='//code.highcharts.com/highcharts-more.js' type='text/javascript'></script>
+    <script src='//code.highcharts.com/modules/exporting.js' type='text/javascript'></script>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/highcharts/4.2.3/themes/grid-light.js' type='text/javascript'></script>
+    
+    <style>
+    .rChart {
+      display: inline-block;
+      margin-left: auto; 
+      margin-right: auto;
+      width: 800px;
+      height: 400px;
+    }  
+    </style>
+    
+  </head>
+  <body >
+    
+    <div id = 'chart5ba756636d5' class = 'rChart highcharts'></div>    
+    <script type='text/javascript'>
+    (function($){
+        $(function () {
+            var chart = new Highcharts.Chart({
+ "dom": "chart5ba756636d5",
+"width":            800,
+"height":            400,
+"credits": {
+ "href": null,
+"text": null 
+},
+"exporting": {
+ "enabled": true,
+"buttons": {
+ "contextButton": {
+ "align": "right",
+"verticalAlign": "top" 
+} 
+} 
+},
+"title": {
+ "text": "Clients" 
+},
+"yAxis": [
+ {
+ "type": "logarithmic",
+"title": {
+ "text": "NO. OF NOTIFICATIONS" 
+} 
+} 
+],
+"chart": {
+ "zoomType": "x",
+"type": "column",
+"spacingTop":             20,
+"spacingBottom":             20,
+"renderTo": "chart5ba756636d5" 
+},
+"legend": {
+ "enabled": true 
+},
+"xAxis": [
+ {
+ "crosshair": true,
+"categories": [
+              0,
+       600.002,
+      1200.004,
+      1800.005,
+      2400.005,
+      3000.007,
+      3600.007,
+      4200.008,
+      4800.009,
+      5400.011,
+      6000.012,
+      6600.014,
+      7200.015,
+      7800.016,
+      8400.018,
+      9000.019,
+      9600.019,
+     10200.021,
+     10800.022,
+     11400.024,
+     12000.025,
+     12600.026,
+     13200.027,
+     13800.028,
+      14400.03,
+     15000.032,
+     15600.033,
+     16200.035,
+     16800.036,
+     17400.037,
+      18000.04,
+     18600.043,
+     19200.045,
+     19800.047,
+     20400.049,
+      21000.05,
+      21600.05,
+     22200.052,
+     22800.054,
+     23400.056,
+     24000.056,
+     24600.057,
+     25200.059,
+     25800.061,
+     26400.062,
+     27000.062,
+     27600.064,
+     28200.065,
+     28800.067,
+     29400.069,
+     30000.071,
+     30600.071,
+     31200.072,
+     31800.074,
+     32400.075,
+     33000.076,
+     33600.077,
+     34200.078,
+      34800.08,
+     35400.082,
+     36000.082,
+     36600.084,
+     37200.085,
+     37800.088,
+      38400.09,
+      39000.09,
+     39600.092,
+     40200.094,
+     40800.095,
+     41400.097,
+     42000.099,
+     42600.101,
+     43200.102,
+     43800.103 
+],
+"title": {
+ "text": "TIME (S)" 
+},
+"showLastLabel": true 
+} 
+],
+"plotOptions": {
+ "column": {
+ "pointPadding":            0.2,
+"dataLabels": {
+ "enabled": false 
+} 
+} 
+},
+"series": [
+ {
+ "name": "Unscoped rete",
+"data": [
+ 0,
+28,
+28,
+28,
+31,
+31,
+59,
+59,
+59,
+59,
+62,
+89,
+90,
+90,
+90,
+93,
+101,
+129,
+129,
+130,
+133,
+133,
+162,
+162,
+162,
+162,
+165,
+165,
+193,
+193,
+193,
+196,
+196,
+196,
+224,
+224,
+224,
+227,
+227,
+255,
+255,
+255,
+258,
+258,
+258,
+288,
+288,
+288,
+291,
+292,
+298,
+328,
+329,
+332,
+348,
+364,
+380,
+440,
+440,
+451,
+459,
+467,
+467,
+495,
+550,
+550,
+550,
+550,
+550,
+578,
+581,
+581,
+581,
+581 
+],
+"color": "rgba( 238, 46,  47,  0.9 )" 
+},
+{
+ "name": "Serena rete",
+"data": [
+ 0,
+206,
+275,
+299,
+304,
+329,
+494,
+631,
+639,
+647,
+709,
+758,
+954,
+998,
+1017,
+1041,
+1083,
+1245,
+1364,
+1379,
+1393,
+1442,
+1534,
+1733,
+1751,
+1772,
+1828,
+1859,
+2031,
+2148,
+2177,
+2189,
+2240,
+2380,
+2562,
+2569,
+2582,
+2666,
+2687,
+2913,
+2984,
+2994,
+3020,
+3088,
+3226,
+3383,
+3402,
+3418,
+3498,
+3554,
+3734,
+3820,
+3832,
+3868,
+3930,
+4058,
+4206,
+4235,
+4242,
+4299,
+4386,
+4538,
+4637,
+4672,
+4684,
+4741,
+4850,
+4970,
+5061,
+5070,
+5136,
+5245,
+5360,
+5493 
+],
+"color": "rgba( 44,  145, 51,  0.9 )" 
+} 
+],
+"id": "chart5ba756636d5" 
+});
+        });
+    })(jQuery);
+</script>
+    
+    <script></script>    
+  </body>
+</html>

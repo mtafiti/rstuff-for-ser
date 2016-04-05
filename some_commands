@@ -1,0 +1,10 @@
+#common commands
+
+library(plyr)
+join(df1, df2, by = "KEY"
+     type = "inner", match = "first") #inner, left, right, full #first, all
+     
+#might return duplicate column names. to modify:
+dk = join(scopedsaliva$serverprofile, noscopesaliva$serverprofile, by = "activations",
+           type = "inner", match = "first")
+colnames(dk) <- make.unique(colnames(dk))

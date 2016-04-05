@@ -1,0 +1,90 @@
+{"name":"Serena server","level":30,"serverprofile":{"joins":6045,"factsadded":108,"activations":50,"memory":{"RSS":15220736,"HeapTotal":7175424,"HeapUsed":6238232},"ttime":50443},"msg":"","time":"2016-03-18T07:25:43.312Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":11163,"factsadded":136,"activations":100,"memory":{"RSS":16142336,"HeapTotal":7175424,"HeapUsed":8937824},"ttime":92808},"msg":"","time":"2016-03-18T07:26:25.675Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":4860732,"factsadded":1210,"activations":150,"memory":{"RSS":84107264,"HeapTotal":73231360,"HeapUsed":51213128},"ttime":3225531},"msg":"","time":"2016-03-18T08:18:38.400Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":4942524,"factsadded":1238,"activations":200,"memory":{"RSS":86114304,"HeapTotal":75295232,"HeapUsed":51839288},"ttime":3266884},"msg":"","time":"2016-03-18T08:19:19.751Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":18698148,"factsadded":2313,"activations":250,"memory":{"RSS":246845440,"HeapTotal":233181440,"HeapUsed":196475432},"ttime":6382504},"msg":"","time":"2016-03-18T09:11:15.373Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":18857583,"factsadded":2341,"activations":300,"memory":{"RSS":257425408,"HeapTotal":243500800,"HeapUsed":110174088},"ttime":6424709},"msg":"","time":"2016-03-18T09:11:57.577Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":19025107,"factsadded":2369,"activations":350,"memory":{"RSS":226426880,"HeapTotal":212542720,"HeapUsed":83918544},"ttime":6478773},"msg":"","time":"2016-03-18T09:12:51.641Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":32095674,"factsadded":3263,"activations":400,"memory":{"RSS":376307712,"HeapTotal":360109568,"HeapUsed":211258976},"ttime":9186521},"msg":"","time":"2016-03-18T09:57:59.389Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":41882528,"factsadded":3461,"activations":450,"memory":{"RSS":511410176,"HeapTotal":493229312,"HeapUsed":443884480},"ttime":9754053},"msg":"","time":"2016-03-18T10:07:26.932Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":42118221,"factsadded":3489,"activations":500,"memory":{"RSS":500994048,"HeapTotal":482909952,"HeapUsed":286555664},"ttime":9790444},"msg":"","time":"2016-03-18T10:08:03.312Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":73800458,"factsadded":4564,"activations":550,"memory":{"RSS":1205747712,"HeapTotal":1176370944,"HeapUsed":561425360},"ttime":12982705},"msg":"","time":"2016-03-18T11:01:15.574Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":74110815,"factsadded":4591,"activations":600,"memory":{"RSS":1205919744,"HeapTotal":1176370944,"HeapUsed":621431680},"ttime":13016838},"msg":"","time":"2016-03-18T11:01:49.705Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":86693657,"factsadded":5310,"activations":650,"memory":{"RSS":270950400,"HeapTotal":255884032,"HeapUsed":206942512},"ttime":15161446},"msg":"","time":"2016-03-18T11:37:34.314Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":115082623,"factsadded":5693,"activations":700,"memory":{"RSS":2041614336,"HeapTotal":1998823936,"HeapUsed":686008736},"ttime":16290445},"msg":"","time":"2016-03-18T11:56:23.314Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":115474333,"factsadded":5721,"activations":750,"memory":{"RSS":1625489408,"HeapTotal":1589145344,"HeapUsed":399806536},"ttime":16329181},"msg":"","time":"2016-03-18T11:57:02.049Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":165287726,"factsadded":6801,"activations":800,"memory":{"RSS":2420068352,"HeapTotal":2371352832,"HeapUsed":949570904},"ttime":19656840},"msg":"","time":"2016-03-18T12:52:29.709Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":166102478,"factsadded":6842,"activations":850,"memory":{"RSS":2420207616,"HeapTotal":2371352832,"HeapUsed":1102191632},"ttime":19683982},"msg":"","time":"2016-03-18T12:52:56.849Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":183723443,"factsadded":7542,"activations":900,"memory":{"RSS":643698688,"HeapTotal":623253248,"HeapUsed":453898472},"ttime":21725784},"msg":"","time":"2016-03-18T13:26:58.652Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":224916717,"factsadded":7930,"activations":950,"memory":{"RSS":2551652352,"HeapTotal":2501364736,"HeapUsed":1129091792},"ttime":23083539},"msg":"","time":"2016-03-18T13:49:36.408Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":227550783,"factsadded":8032,"activations":1000,"memory":{"RSS":2551652352,"HeapTotal":2501364736,"HeapUsed":1624220936},"ttime":23161568},"msg":"","time":"2016-03-18T13:50:54.435Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":294917268,"factsadded":9091,"activations":1050,"memory":{"RSS":2957963264,"HeapTotal":2900736000,"HeapUsed":2862552208},"ttime":26552629},"msg":"","time":"2016-03-18T14:47:25.498Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":298265653,"factsadded":9213,"activations":1100,"memory":{"RSS":2961899520,"HeapTotal":2904863744,"HeapUsed":1845263632},"ttime":26657514},"msg":"","time":"2016-03-18T14:49:10.381Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":317652060,"factsadded":9772,"activations":1150,"memory":{"RSS":2392657920,"HeapTotal":2344522496,"HeapUsed":1321641880},"ttime":28247458},"msg":"","time":"2016-03-18T15:15:40.327Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":370244360,"factsadded":10156,"activations":1200,"memory":{"RSS":4397985792,"HeapTotal":4317584128,"HeapUsed":2082958760},"ttime":29943004},"msg":"","time":"2016-03-18T15:43:55.873Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":376264343,"factsadded":10325,"activations":1250,"memory":{"RSS":3918118912,"HeapTotal":3844957440,"HeapUsed":2239034816},"ttime":30128639},"msg":"","time":"2016-03-18T15:47:01.506Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":376874524,"factsadded":10352,"activations":1300,"memory":{"RSS":3801726976,"HeapTotal":3730412544,"HeapUsed":1140399432},"ttime":30149956},"msg":"","time":"2016-03-18T15:47:22.823Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":405499613,"factsadded":10986,"activations":1350,"memory":{"RSS":2644942848,"HeapTotal":2592187136,"HeapUsed":982648760},"ttime":31948397},"msg":"","time":"2016-03-18T16:17:21.266Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":420169169,"factsadded":11082,"activations":1400,"memory":{"RSS":2589470720,"HeapTotal":2537494528,"HeapUsed":1785671576},"ttime":32387216},"msg":"","time":"2016-03-18T16:24:40.083Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":427592230,"factsadded":11134,"activations":1450,"memory":{"RSS":3271286784,"HeapTotal":3209284864,"HeapUsed":3160752360},"ttime":32611338},"msg":"","time":"2016-03-18T16:28:24.206Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":450010667,"factsadded":11268,"activations":1500,"memory":{"RSS":4378378240,"HeapTotal":4297977344,"HeapUsed":2970242496},"ttime":33300889},"msg":"","time":"2016-03-18T16:39:53.757Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":450010667,"factsadded":11268,"activations":1550,"memory":{"RSS":4378374144,"HeapTotal":4297977344,"HeapUsed":2971142656},"ttime":33300909},"msg":"","time":"2016-03-18T16:39:53.776Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":459153019,"factsadded":11370,"activations":1600,"memory":{"RSS":4177051648,"HeapTotal":4099845632,"HeapUsed":3392331520},"ttime":33582016},"msg":"","time":"2016-03-18T16:44:34.883Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":470211652,"factsadded":11673,"activations":1650,"memory":{"RSS":4067999744,"HeapTotal":3992524288,"HeapUsed":2045444816},"ttime":33919726},"msg":"","time":"2016-03-18T16:50:12.593Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":470211652,"factsadded":11673,"activations":1700,"memory":{"RSS":4067999744,"HeapTotal":3992524288,"HeapUsed":2046115328},"ttime":33919743},"msg":"","time":"2016-03-18T16:50:12.610Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":487846388,"factsadded":12091,"activations":1750,"memory":{"RSS":3286388736,"HeapTotal":3224763904,"HeapUsed":654043384},"ttime":34843274},"msg":"","time":"2016-03-18T17:05:36.142Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":496417894,"factsadded":12182,"activations":1800,"memory":{"RSS":3286388736,"HeapTotal":3224763904,"HeapUsed":2240147800},"ttime":35166511},"msg":"","time":"2016-03-18T17:10:59.378Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":520419707,"factsadded":12320,"activations":1850,"memory":{"RSS":3907813376,"HeapTotal":3836701952,"HeapUsed":3782403088},"ttime":35896638},"msg":"","time":"2016-03-18T17:23:09.505Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":550637645,"factsadded":12484,"activations":1900,"memory":{"RSS":7853522944,"HeapTotal":7719877120,"HeapUsed":7658511856},"ttime":36822882},"msg":"","time":"2016-03-18T17:38:35.749Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":550637645,"factsadded":12484,"activations":1950,"memory":{"RSS":7853559808,"HeapTotal":7719877120,"HeapUsed":7659251848},"ttime":36822897},"msg":"","time":"2016-03-18T17:38:35.764Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":550637645,"factsadded":12484,"activations":2000,"memory":{"RSS":7853903872,"HeapTotal":7720897024,"HeapUsed":7660377552},"ttime":36822927},"msg":"","time":"2016-03-18T17:38:35.794Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":567920529,"factsadded":12837,"activations":2050,"memory":{"RSS":7957319680,"HeapTotal":7822038784,"HeapUsed":2498883064},"ttime":37352837},"msg":"","time":"2016-03-18T17:47:25.704Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":567920529,"factsadded":12837,"activations":2100,"memory":{"RSS":7957319680,"HeapTotal":7822038784,"HeapUsed":2499620776},"ttime":37352852},"msg":"","time":"2016-03-18T17:47:25.719Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":576939003,"factsadded":13044,"activations":2150,"memory":{"RSS":6995701760,"HeapTotal":6871625728,"HeapUsed":2924330752},"ttime":37628700},"msg":"","time":"2016-03-18T17:52:01.567Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":659585273,"factsadded":13675,"activations":2200,"memory":{"RSS":6085091328,"HeapTotal":5976937216,"HeapUsed":2253923416},"ttime":40343221},"msg":"","time":"2016-03-18T18:37:16.090Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":679603491,"factsadded":14070,"activations":2250,"memory":{"RSS":5502296064,"HeapTotal":5403180800,"HeapUsed":3390267576},"ttime":40969902},"msg":"","time":"2016-03-18T18:47:42.769Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":686626879,"factsadded":14209,"activations":2300,"memory":{"RSS":5461401600,"HeapTotal":5362935296,"HeapUsed":2744799424},"ttime":41183721},"msg":"","time":"2016-03-18T18:51:16.588Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":773551016,"factsadded":14793,"activations":2350,"memory":{"RSS":6223732736,"HeapTotal":6113152768,"HeapUsed":4082877072},"ttime":43857259},"msg":"","time":"2016-03-18T19:35:50.127Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":799514137,"factsadded":15286,"activations":2400,"memory":{"RSS":5793824768,"HeapTotal":5690059008,"HeapUsed":4218843648},"ttime":44648497},"msg":"","time":"2016-03-18T19:49:01.364Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":895044818,"factsadded":15884,"activations":2450,"memory":{"RSS":9112166400,"HeapTotal":8956136448,"HeapUsed":8873880072},"ttime":47568874},"msg":"","time":"2016-03-18T20:37:41.741Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.021Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.026Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.027Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.028Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.028Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.029Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.029Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.029Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.029Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.030Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.030Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.030Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.030Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T20:37:51.030Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":933751512,"factsadded":16540,"activations":2500,"memory":{"RSS":8768991232,"HeapTotal":8616629504,"HeapUsed":5070752440},"ttime":48749761},"msg":"","time":"2016-03-18T20:57:22.628Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":937888004,"factsadded":16626,"activations":2550,"memory":{"RSS":8604364800,"HeapTotal":8454615552,"HeapUsed":2566036936},"ttime":48883424},"msg":"","time":"2016-03-18T20:59:36.291Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.268Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.271Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.273Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.274Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.274Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.274Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.275Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.275Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.275Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.276Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.276Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.277Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.277Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.277Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.278Z","v":0}
+{"name":"Serena server","level":30,"msg":"Client disconnected..","time":"2016-03-18T21:40:44.278Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":1099776097,"factsadded":17830,"activations":2600,"memory":{"RSS":12259110912,"HeapTotal":12047816704,"HeapUsed":11956207616},"ttime":53853656},"msg":"","time":"2016-03-18T22:22:26.524Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":1099776097,"factsadded":17830,"activations":2650,"memory":{"RSS":12259459072,"HeapTotal":12049868544,"HeapUsed":11957411544},"ttime":53853699},"msg":"","time":"2016-03-18T22:22:26.566Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":1122953564,"factsadded":17953,"activations":2700,"memory":{"RSS":12263370752,"HeapTotal":12052964352,"HeapUsed":9795589536},"ttime":54567557},"msg":"","time":"2016-03-18T22:34:20.424Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":1122953564,"factsadded":17953,"activations":2750,"memory":{"RSS":12263370752,"HeapTotal":12052964352,"HeapUsed":9796701336},"ttime":54567592},"msg":"","time":"2016-03-18T22:34:20.460Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":1208321600,"factsadded":18715,"activations":2800,"memory":{"RSS":18260135936,"HeapTotal":17954606336,"HeapUsed":3044605376},"ttime":57129379},"msg":"","time":"2016-03-18T23:17:02.247Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":1208321600,"factsadded":18715,"activations":2850,"memory":{"RSS":18260201472,"HeapTotal":17954606336,"HeapUsed":3045544944},"ttime":57129407},"msg":"","time":"2016-03-18T23:17:02.274Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":1208321600,"factsadded":18715,"activations":2900,"memory":{"RSS":18260377600,"HeapTotal":17954606336,"HeapUsed":3046653256},"ttime":57129440},"msg":"","time":"2016-03-18T23:17:02.307Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":1242253779,"factsadded":18987,"activations":2950,"memory":{"RSS":18262593536,"HeapTotal":17954606336,"HeapUsed":9325791264},"ttime":58187341},"msg":"","time":"2016-03-18T23:34:40.208Z","v":0}
+{"name":"Serena server","level":30,"serverprofile":{"joins":1242253779,"factsadded":18987,"activations":3000,"memory":{"RSS":18262593536,"HeapTotal":17954606336,"HeapUsed":9326678296},"ttime":58187365},"msg":"","time":"2016-03-18T23:34:40.232Z","v":0}
